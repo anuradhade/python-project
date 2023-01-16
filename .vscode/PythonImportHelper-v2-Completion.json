@@ -1,0 +1,65 @@
+[
+    {
+        "label": "calendar",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "calendar",
+        "description": "calendar",
+        "detail": "calendar",
+        "documentation": {}
+    },
+    {
+        "label": "#yy",
+        "kind": 5,
+        "importPath": "calender",
+        "description": "calender",
+        "peekOfCode": "#yy = 2023 # year\n#mm = 11 # month\n#input the month and year from user\nyy = int(input(\"Enter year:\"))\nmm = int(input(\"Enter Month:\"))\n#Disply the calender\n#print(yy, mm)\nprint(calendar.month(yy, mm))",
+        "detail": "calender",
+        "documentation": {}
+    },
+    {
+        "label": "#mm",
+        "kind": 5,
+        "importPath": "calender",
+        "description": "calender",
+        "peekOfCode": "#mm = 11 # month\n#input the month and year from user\nyy = int(input(\"Enter year:\"))\nmm = int(input(\"Enter Month:\"))\n#Disply the calender\n#print(yy, mm)\nprint(calendar.month(yy, mm))",
+        "detail": "calender",
+        "documentation": {}
+    },
+    {
+        "label": "yy",
+        "kind": 5,
+        "importPath": "calender",
+        "description": "calender",
+        "peekOfCode": "yy = int(input(\"Enter year:\"))\nmm = int(input(\"Enter Month:\"))\n#Disply the calender\n#print(yy, mm)\nprint(calendar.month(yy, mm))",
+        "detail": "calender",
+        "documentation": {}
+    },
+    {
+        "label": "mm",
+        "kind": 5,
+        "importPath": "calender",
+        "description": "calender",
+        "peekOfCode": "mm = int(input(\"Enter Month:\"))\n#Disply the calender\n#print(yy, mm)\nprint(calendar.month(yy, mm))",
+        "detail": "calender",
+        "documentation": {}
+    },
+    {
+        "label": "Person",
+        "kind": 6,
+        "importPath": "pythonclasses",
+        "description": "pythonclasses",
+        "peekOfCode": "class Person:\n  def __init__(self, name, age):\n    self.name = name\n    self.age = age\np1 = Person(\"John\", 36)\nprint(p1.name)\nprint(p1.age)",
+        "detail": "pythonclasses",
+        "documentation": {}
+    },
+    {
+        "label": "p1",
+        "kind": 5,
+        "importPath": "pythonclasses",
+        "description": "pythonclasses",
+        "peekOfCode": "p1 = Person(\"John\", 36)\nprint(p1.name)\nprint(p1.age)",
+        "detail": "pythonclasses",
+        "documentation": {}
+    }
+]
